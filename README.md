@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 😄 Pronouns: She/her
-- 👩🏽‍💻 I’m currently working on [The Chem Spot](https://github.com/bralvis2/The-Chem-Spot)
+- 👩🏽‍💻 I’m currently working on [Avielle Jay Beauty](https://github.com/bralvis2/avielle-jay-beauty)
 - 🌱 I’m currently mastering React!
 - ✉️  You can contact me at [bralvis2@gmail.com](mailto:bralvis2@gmail.com)
 - 🧠 Passionate about learning!
