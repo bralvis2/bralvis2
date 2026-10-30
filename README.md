@@ -1,16 +1,7 @@
-# Hi there 👋 I'm Brenda Alvis
+# Hi there 👋 I'm Brenda Alvizar
 
 <!--
 **bralvis2/bralvis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-- 😄 Pronouns: She/her
-- 👩🏽‍💻 I’m currently working on [Uplift Therapy](https://github.com/bralvis2/uplift-therapy)
-- 🌱 I’m currently mastering React!
-- ✉️  You can contact me at [bralvis2@gmail.com](mailto:bralvis2@gmail.com)
-- 🧠 Passionate about learning!
-
 
 ## My Skills
 <p align="left">
