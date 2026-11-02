@@ -10,7 +10,7 @@ I'm a full stack web developer with a MERN (MongoDB, Express, React, Node.js) bo
 
 ## 🚀 Featured Work
 - **[Uplift Therapy](https://uplifttherapy.org/)**: A multi-page React website for a Lincoln, NE therapy practice, deployed through GitHub
-- **[Avielle Jay Beauty](https://aviellejaybeauty.com/)**: A responsive WordPress site built with Elementor for an Austin-based luxury makeup and hair artist, with local SEO in mind. Updated 2025 from a muli-page React website.
+- **[Avielle Jay Beauty](https://aviellejaybeauty.com/)**: A responsive WordPress site built with Elementor for an Austin-based luxury makeup and hair artist, with local SEO in mind. Updated 2025 from a multi-page React website.
 
 ## 🧰 Tech Stack
 <p align="left">
